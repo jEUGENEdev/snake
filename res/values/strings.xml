@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Snake</string>
+    <string name="ops">Упс!😟</string>
+    <string name="ops1">Нельзя менять настройки во время игры</string>
+    <string name="cause">К сожалению, вы проиграли</string>
+    <string name="most_cause">Змейка, которой вы управляете, не должна касаться черных границ карты, а также собственного тела!</string>
+    <string name="start">Начать заново</string>
+    <string name="score">0</string>
+    <string name="complexity">Сложность</string>
+    <string name="apply">Применить</string>
+    <string name="easy">Легко</string>
+    <string name="middle">Средне</string>
+    <string name="hard">Сложно</string>
+    <string name="ok">Выбрано</string>
+</resources>
